@@ -26,7 +26,6 @@ I'm an Information Technology student at the Vaal University of Technology (VUT)
 
 I enjoy exploring new technologies, developing applications, and turning ideas into working software.
 
-- <img src="https://img.shields.io/badge/-VUT-005A9C?style=flat-square" height="18" alt="Education"/> Studying Information Technology at VUT.
 - <img src="https://img.shields.io/badge/-AI%20%26%20ML-7B42BC?style=flat-square" height="18" alt="AI and Machine Learning"/> Exploring Artificial Intelligence and Machine Learning.
 - <img src="https://img.shields.io/badge/-Web%20Development-E34F26?style=flat-square" height="18" alt="Web Development"/> Developing web applications and software solutions.
 - <img src="https://img.shields.io/badge/-Healthcare%20AI-008577?style=flat-square" height="18" alt="Healthcare AI"/> Working on predictive AI concepts for healthcare management.
