@@ -26,6 +26,9 @@ I'm an Information Technology student at the Vaal University of Technology (VUT)
 
 I enjoy exploring new technologies, developing applications, and turning ideas into working software.
 
+
+- [Networking](https://img.shields.io/badge/-Networking-0A66C2?style=flat-square&logo=cisco&logoColor=white) Exploring computer networks, network infrastructure, and connectivity.
+- [Cybersecurity](https://img.shields.io/badge/-Cybersecurity-222222?style=flat-square&logo=kalilinux&logoColor=white) Interested in network security, cyber threats, and protecting digital systems.
 - <img src="https://img.shields.io/badge/-AI%20%26%20ML-7B42BC?style=flat-square" height="18" alt="AI and Machine Learning"/> Exploring Artificial Intelligence and Machine Learning.
 - <img src="https://img.shields.io/badge/-Web%20Development-E34F26?style=flat-square" height="18" alt="Web Development"/> Developing web applications and software solutions.
 - <img src="https://img.shields.io/badge/-Healthcare%20AI-008577?style=flat-square" height="18" alt="Healthcare AI"/> Working on predictive AI concepts for healthcare management.
