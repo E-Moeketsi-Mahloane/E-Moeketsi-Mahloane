@@ -3,7 +3,7 @@
 
 # Hi, I'm Moeketsi Mahloane
 
-### IT Student | Software Developer | AI & Machine Learning Enthusiast
+### Information Technology Student | Software Developer Software Development | Artificial Intelligence | Networking | Cybersecurity
 
 Building practical software solutions to real-world problems.
 
