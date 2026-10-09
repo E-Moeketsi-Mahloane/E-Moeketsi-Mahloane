@@ -37,7 +37,7 @@ I enjoy exploring new technologies, developing applications, and turning ideas i
 
 ---
 
-## <img src="https://img.shields.io/badge/TECHNOLOGIES%20%26%20TOOLS-0A66C2?style=flat-square&logo=stackshare&logoColor=white" alt="Technologies and Tools"/>
+## Technologies and Tools
 
 ### <img src="https://img.shields.io/badge/Languages-3776AB?style=flat-square&logo=codeforces&logoColor=white" alt="Languages"/>
 
@@ -48,7 +48,7 @@ I enjoy exploring new technologies, developing applications, and turning ideas i
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL"/>
 </p>
 
-### <img src="https://img.shields.io/badge/Web%20Development-E34F26?style=flat-square&logo=html5&logoColor=white" alt="Web Development"/>
+### Web Development
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
@@ -58,28 +58,28 @@ I enjoy exploring new technologies, developing applications, and turning ideas i
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
 </p>
 
-### <img src="https://img.shields.io/badge/AI%2C%20Data%20%26%20Machine%20Learning-7B42BC?style=flat-square&logo=scikitlearn&logoColor=white" alt="AI, Data and Machine Learning"/>
+### AI, Data and Machine Learning
 
 <p>
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
 </p>
 
-### <img src="https://img.shields.io/badge/Networking-0A66C2?style=flat-square&logo=cisco&logoColor=white" alt="Networking"/>
+### Networking
 
 <p>
   <img src="https://img.shields.io/badge/Computer%20Networking-0A66C2?style=flat-square&logo=cisco&logoColor=white" alt="Computer Networking"/>
   <img src="https://img.shields.io/badge/Network%20Infrastructure-36454F?style=flat-square&logo=cloudflare&logoColor=white" alt="Network Infrastructure"/>
 </p>
 
-### <img src="https://img.shields.io/badge/Cybersecurity-222222?style=flat-square&logo=kalilinux&logoColor=white" alt="Cybersecurity"/>
+### Cybersecurity
 
 <p>
   <img src="https://img.shields.io/badge/Cybersecurity-222222?style=flat-square&logo=kalilinux&logoColor=white" alt="Cybersecurity"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
 </p>
 
-### <img src="https://img.shields.io/badge/Development%20Tools-5C2D91?style=flat-square&logo=visualstudio&logoColor=white" alt="Development Tools"/>
+### Development Tools
 
 <p>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
