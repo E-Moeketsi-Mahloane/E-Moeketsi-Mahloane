@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # Hi, I'm Moeketsi Mahloane
@@ -39,7 +38,7 @@ I enjoy exploring new technologies, developing applications, and turning ideas i
 
 ## Technologies and Tools
 
-### <img src="https://img.shields.io/badge/Languages-3776AB?style=flat-square&logo=codeforces&logoColor=white" alt="Languages"/>
+### Languages
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
